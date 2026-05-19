@@ -29,7 +29,7 @@ Designed to provide:
 
 ---
 
-# Project Layout
+# Intended Project Layout
 
 ```text
 project/
